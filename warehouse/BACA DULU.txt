@@ -1,9 +1,0 @@
-LOGIN DEFAULT :
-
-KASIR :
-USERNAME : kasir
-PASSWORD : kasir
-
-ADMIN :
-USERNAME : admin
-PASSWORD : admin
